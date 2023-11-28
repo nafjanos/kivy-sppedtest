@@ -1,12 +1,12 @@
 # Kivy Speedtest App
 
+## About
+
+Learning project [python + kivy]
+
 ## Screenshots
 
 ![Screenshot](screenshot.png)
-
-
-## About
-The Kivy Speedtest App is a simple Python application using the Kivy framework for creating a graphical user interface. It allows users to perform network speed tests using the Speedtest library in a visually appealing way.
 
 # Prerequisites
 - Python (3.x recommended)
